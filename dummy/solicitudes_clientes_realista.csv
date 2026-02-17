@@ -1,201 +1,201 @@
-texto_mensaje,tipo_solicitud,nombre_real,monto_real,fecha_real
-"Es el colmo, llevo esperando mi reembolso de $36955 desde hoy. Soy Juan Pérez.",Queja,Juan Pérez,$36955,hoy
-"Hola, quisiera cotizar 36 discos duros para Consultoría Integral. Urge para 03/08/2025.",Venta,N/A,N/A,03/08/2025
-Confirmando transferencia de 14254.63 realizada 2025-06-22. Envíenme el XML y PDF.,Factura,N/A,14254.63,2025-06-22
-¿Me podrían dar costo de consultoría legal? Somos una PyME.,Venta,N/A,N/A,ayer
-"Hola, vi su anuncio. Quiero comprar 46 paquetes de hojas. ¿Tienen en existencia?",Venta,N/A,N/A,2025-05-29
-"Hola, quisiera cotizar 11 cámaras de seguridad para Restaurante El Sabor. Urge para 10 de December.",Venta,N/A,N/A,10 de December
-"Es el colmo, llevo esperando mi reembolso de 23381.88 pesos desde el lunes pasado. Soy Lucía Fernández.",Queja,Lucía Fernández,23381.88 pesos,el lunes pasado
-"Oigan, me hicieron un cobro doble de $20,357.66. Necesito que lo arreglen YA.",Queja,N/A,"$20,357.66",hoy
-"Hola, no me ha llegado la factura de mi compra del hoy. El total fue 13611.57.",Factura,N/A,13611.57,hoy
-Confirmando transferencia de 49867.63 realizada ayer. Envíenme el XML y PDF.,Factura,N/A,49867.63,ayer
-"Hola, quisiera cotizar 44 licencias de Office para Tech Solutions. Urge para ayer.",Venta,N/A,N/A,ayer
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,el lunes pasado
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Carlos López.,Factura,Carlos López,N/A,el lunes pasado
-Confirmando transferencia de $8496 realizada hoy. Envíenme el XML y PDF.,Factura,N/A,$8496,hoy
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Juan Pérez.,Factura,Juan Pérez,N/A,2025-02-10
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,26 de March
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,hoy
-"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de campaña de marketing.",Venta,María González,N/A,el lunes pasado
-"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de desarrollo web.",Venta,María González,N/A,hoy
-"Hola, vi su anuncio. Quiero comprar 27 monitores 24 pulgadas. ¿Tienen en existencia?",Venta,N/A,N/A,ayer
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Pedro Sánchez.,Factura,Pedro Sánchez,N/A,25/02/2025
-"Buenas tardes, soy Miguel Ángel. Me interesa saber el precio de sus servicios de seguridad privada.",Venta,Miguel Ángel,N/A,ayer
-"Es el colmo, llevo esperando mi reembolso de 42510.44 desde ayer. Soy Juan Pérez.",Queja,Juan Pérez,42510.44,ayer
-Adjunto comprobante de pago por 46362.64 MXN. Favor de facturar a nombre de Carlos López.,Factura,Carlos López,46362.64 MXN,ayer
-Mi pedido de licencias de Office llegó roto. Quiero mi dinero de vuelta. Diego Torres.,Queja,Diego Torres,N/A,el lunes pasado
-"Oigan, me hicieron un cobro doble de $46009. Necesito que lo arreglen YA.",Queja,N/A,$46009,2025-03-22
-"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de campaña de marketing.",Venta,María González,N/A,hoy
-"Es el colmo, llevo esperando mi reembolso de 10610.83 pesos desde 03 de May. Soy Lucía Fernández.",Queja,Lucía Fernández,10610.83 pesos,03 de May
-"Oigan, me hicieron un cobro doble de $31247. Necesito que lo arreglen YA.",Queja,N/A,$31247,2025-02-21
-"Oigan, me hicieron un cobro doble de 14606.88 MXN. Necesito que lo arreglen YA.",Queja,N/A,14606.88 MXN,el lunes pasado
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Juan Pérez. 11/10/2025.,Queja,Juan Pérez,N/A,11/10/2025
-Pésimo servicio de consultoría legal. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,el lunes pasado
-Adjunto comprobante de pago por $37190. Favor de facturar a nombre de Juan Pérez.,Factura,Juan Pérez,$37190,ayer
-Estoy muy molesto con su servicio. Nadie me atiende. Soy María González. 09/08/2025.,Queja,María González,N/A,09/08/2025
-Adjunto comprobante de pago por $5588. Favor de facturar a nombre de Fernando Gómez.,Factura,Fernando Gómez,$5588,hoy
-Pésimo servicio de auditoría fiscal. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,el lunes pasado
-Solicito presupuesto para 31 unidades de servidores. Quedo atento.,Venta,N/A,N/A,29 de June
-"Buenas tardes, soy Juan Pérez. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado.",Venta,Juan Pérez,N/A,el lunes pasado
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,hoy
-Adjunto comprobante de pago por 39428.19 MXN. Favor de facturar a nombre de María González.,Factura,María González,39428.19 MXN,hoy
-¿Me podrían dar costo de consultoría legal? Somos una PyME.,Venta,N/A,N/A,hoy
-Pésimo servicio de mantenimiento de aire acondicionado. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,hoy
-Envío datos fiscales para la factura de Restaurante El Sabor. Monto: 21312.09 MXN.,Factura,N/A,21312.09 MXN,el lunes pasado
-"Hola, vi su anuncio. Quiero comprar 20 servidores. ¿Tienen en existencia?",Venta,N/A,N/A,hoy
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Laura García. 2025-12-04.,Queja,Laura García,N/A,2025-12-04
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Sofía Martínez. 2025-01-13.,Queja,Sofía Martínez,N/A,2025-01-13
-Confirmando transferencia de 28995.71 MXN realizada ayer. Envíenme el XML y PDF.,Factura,N/A,28995.71 MXN,ayer
-"Buenas tardes, soy Diego Torres. Me interesa saber el precio de sus servicios de seguridad privada.",Venta,Diego Torres,N/A,2025-08-26
-Pésimo servicio de auditoría fiscal. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,01 de November
-Confirmando transferencia de 37310.94 MXN realizada 19 de August. Envíenme el XML y PDF.,Factura,N/A,37310.94 MXN,19 de August
-Solicito presupuesto para 18 unidades de cámaras de seguridad. Quedo atento.,Venta,N/A,N/A,01 de May
-Envío datos fiscales para la factura de Servicios Financieros SA. Monto: 11947.44.,Factura,N/A,11947.44,28/12/2025
-¿Me podrían dar costo de capacitación de personal? Somos una PyME.,Venta,N/A,N/A,hoy
-"Es el colmo, llevo esperando mi reembolso de 47165.71 pesos desde ayer. Soy Gabriela Cruz.",Queja,Gabriela Cruz,47165.71 pesos,ayer
-Mi pedido de monitores 24 pulgadas llegó roto. Quiero mi dinero de vuelta. Andrés Flores.,Queja,Andrés Flores,N/A,ayer
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,hoy
-¿Me podrían dar costo de limpieza de oficinas? Somos una PyME.,Venta,N/A,N/A,21 de August
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Luis Hernández.,Factura,Luis Hernández,N/A,27 de January
-"Hola, quisiera cotizar 13 laptops para Constructora del Norte. Urge para 20/03/2025.",Venta,N/A,N/A,20/03/2025
-¿Me podrían dar costo de campaña de marketing? Somos una PyME.,Venta,N/A,N/A,hoy
-"Es el colmo, llevo esperando mi reembolso de 1771.08 pesos desde el lunes pasado. Soy Andrés Flores.",Queja,Andrés Flores,1771.08 pesos,el lunes pasado
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Valentina Ramírez.,Factura,Valentina Ramírez,N/A,hoy
-"Hola, vi su anuncio. Quiero comprar 43 paquetes de hojas. ¿Tienen en existencia?",Venta,N/A,N/A,28 de November
-¿Me podrían dar costo de seguridad privada? Somos una PyME.,Venta,N/A,N/A,29/12/2025
-"Hola, no me ha llegado la factura de mi compra del 18 de May. El total fue $22060.",Factura,N/A,$22060,18 de May
-"Hola, quisiera cotizar 37 monitores 24 pulgadas para Papelería La Goma. Urge para 2025-06-22.",Venta,N/A,N/A,2025-06-22
-Envío datos fiscales para la factura de Papelería La Goma. Monto: $17346.,Factura,N/A,$17346,26 de December
-"Es el colmo, llevo esperando mi reembolso de $20618 desde el lunes pasado. Soy Miguel Ángel.",Queja,Miguel Ángel,$20618,el lunes pasado
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,el lunes pasado
-Confirmando transferencia de 35291.32 pesos realizada 06 de June. Envíenme el XML y PDF.,Factura,N/A,35291.32 pesos,06 de June
-"Hola, quisiera cotizar 48 paquetes de hojas para Consultoría Integral. Urge para 09/04/2025.",Venta,N/A,N/A,09/04/2025
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Luis Hernández. 27 de April.,Queja,Luis Hernández,N/A,27 de April
-"Hola, vi su anuncio. Quiero comprar 36 laptops. ¿Tienen en existencia?",Venta,N/A,N/A,ayer
-"Hola, quisiera cotizar 29 cámaras de seguridad para Restaurante El Sabor. Urge para ayer.",Venta,N/A,N/A,ayer
-"Hola, quisiera cotizar 10 sillas ergonómicas para Papelería La Goma. Urge para 2025-06-05.",Venta,N/A,N/A,2025-06-05
-"Hola, quisiera cotizar 50 teclados mecánicos para Transportes Rápidos. Urge para 15 de August.",Venta,N/A,N/A,15 de August
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Luis Hernández. el lunes pasado.,Queja,Luis Hernández,N/A,el lunes pasado
-"Es el colmo, llevo esperando mi reembolso de 632.45 MXN desde hoy. Soy Carlos López.",Queja,Carlos López,632.45 MXN,hoy
-"Buenas tardes, soy Luis Hernández. Me interesa saber el precio de sus servicios de desarrollo web.",Venta,Luis Hernández,N/A,hoy
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Pedro Sánchez. 2025-03-14.,Queja,Pedro Sánchez,N/A,2025-03-14
-Confirmando transferencia de 23700.55 pesos realizada ayer. Envíenme el XML y PDF.,Factura,N/A,23700.55 pesos,ayer
-Confirmando transferencia de 2473.11 MXN realizada hoy. Envíenme el XML y PDF.,Factura,N/A,2473.11 MXN,hoy
-Adjunto comprobante de pago por 33777.94 pesos. Favor de facturar a nombre de María González.,Factura,María González,33777.94 pesos,2025-10-23
-¿Me podrían dar costo de auditoría fiscal? Somos una PyME.,Venta,N/A,N/A,ayer
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Sofía Martínez.,Factura,Sofía Martínez,N/A,el lunes pasado
-Confirmando transferencia de 16502.05 MXN realizada 2025-09-21. Envíenme el XML y PDF.,Factura,N/A,16502.05 MXN,2025-09-21
-Mi pedido de laptops llegó roto. Quiero mi dinero de vuelta. Laura García.,Queja,Laura García,N/A,ayer
-Solicito presupuesto para 45 unidades de impresoras láser. Quedo atento.,Venta,N/A,N/A,hoy
-"Buenas tardes, soy Luis Hernández. Me interesa saber el precio de sus servicios de seguridad privada.",Venta,Luis Hernández,N/A,2025-08-25
-Pésimo servicio de consultoría legal. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,ayer
-"Hola, no me ha llegado la factura de mi compra del hoy. El total fue 14174.25 MXN.",Factura,N/A,14174.25 MXN,hoy
-Adjunto comprobante de pago por 22604.1 MXN. Favor de facturar a nombre de Luis Hernández.,Factura,Luis Hernández,22604.1 MXN,26 de June
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Pedro Sánchez. ayer.,Queja,Pedro Sánchez,N/A,ayer
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,hoy
-¿Me podrían dar costo de limpieza de oficinas? Somos una PyME.,Venta,N/A,N/A,ayer
-Envío datos fiscales para la factura de Transportes Rápidos. Monto: 43037.44 MXN.,Factura,N/A,43037.44 MXN,el lunes pasado
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Gabriela Cruz. el lunes pasado.,Queja,Gabriela Cruz,N/A,el lunes pasado
-"Hola, quisiera cotizar 3 impresoras láser para Abarrotes Don Pepe. Urge para 31 de May.",Venta,N/A,N/A,31 de May
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Carlos López.,Factura,Carlos López,N/A,29/03/2025
-"Hola, vi su anuncio. Quiero comprar 32 teclados mecánicos. ¿Tienen en existencia?",Venta,N/A,N/A,ayer
-"Oigan, me hicieron un cobro doble de 34041.74. Necesito que lo arreglen YA.",Queja,N/A,34041.74,ayer
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Diego Torres. 2025-09-05.,Queja,Diego Torres,N/A,2025-09-05
-"Oigan, me hicieron un cobro doble de $20,092.38. Necesito que lo arreglen YA.",Queja,N/A,"$20,092.38",el lunes pasado
-"Hola, vi su anuncio. Quiero comprar 39 impresoras láser. ¿Tienen en existencia?",Venta,N/A,N/A,22/11/2025
-"Oigan, me hicieron un cobro doble de $39,536.22. Necesito que lo arreglen YA.",Queja,N/A,"$39,536.22",24 de October
-Solicito presupuesto para 9 unidades de licencias de Office. Quedo atento.,Venta,N/A,N/A,hoy
-"Hola, no me ha llegado la factura de mi compra del 14/03/2025. El total fue $23,682.40.",Factura,N/A,"$23,682.40",14/03/2025
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,ayer
-"Oigan, me hicieron un cobro doble de $12,074.18. Necesito que lo arreglen YA.",Queja,N/A,"$12,074.18",hoy
-Pésimo servicio de consultoría legal. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,2025-01-24
-Adjunto comprobante de pago por $22955. Favor de facturar a nombre de María González.,Factura,María González,$22955,hoy
-Pésimo servicio de capacitación de personal. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,el lunes pasado
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Ana Rodríguez.,Factura,Ana Rodríguez,N/A,ayer
-"Hola, no me ha llegado la factura de mi compra del 26 de January. El total fue $32,154.90.",Factura,N/A,"$32,154.90",26 de January
-"Buenas tardes, soy Andrés Flores. Me interesa saber el precio de sus servicios de desarrollo web.",Venta,Andrés Flores,N/A,21/04/2025
-"Hola, no me ha llegado la factura de mi compra del 09/05/2025. El total fue $49382.",Factura,N/A,$49382,09/05/2025
-"Hola, quisiera cotizar 38 paquetes de hojas para Constructora del Norte. Urge para 2025-05-16.",Venta,N/A,N/A,2025-05-16
-¿Me podrían dar costo de capacitación de personal? Somos una PyME.,Venta,N/A,N/A,2025-10-31
-"Confirmando transferencia de $32,345.36 realizada ayer. Envíenme el XML y PDF.",Factura,N/A,"$32,345.36",ayer
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Diego Torres.,Factura,Diego Torres,N/A,08/11/2025
-"Buenas tardes, soy Luis Hernández. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado.",Venta,Luis Hernández,N/A,ayer
-Mi pedido de sillas ergonómicas llegó roto. Quiero mi dinero de vuelta. Pedro Sánchez.,Queja,Pedro Sánchez,N/A,31 de July
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Valentina Ramírez.,Factura,Valentina Ramírez,N/A,el lunes pasado
-Adjunto comprobante de pago por 37357.15 pesos. Favor de facturar a nombre de María González.,Factura,María González,37357.15 pesos,hoy
-"Hola, vi su anuncio. Quiero comprar 27 paquetes de hojas. ¿Tienen en existencia?",Venta,N/A,N/A,27 de January
-"Oigan, me hicieron un cobro doble de 33008.45. Necesito que lo arreglen YA.",Queja,N/A,33008.45,25 de February
-Adjunto comprobante de pago por $42335. Favor de facturar a nombre de Andrés Flores.,Factura,Andrés Flores,$42335,el lunes pasado
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Juan Pérez. 23 de June.,Queja,Juan Pérez,N/A,23 de June
-"Hola, vi su anuncio. Quiero comprar 48 sillas ergonómicas. ¿Tienen en existencia?",Venta,N/A,N/A,el lunes pasado
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Pedro Sánchez. hoy.,Queja,Pedro Sánchez,N/A,hoy
-"Buenas tardes, soy Carlos López. Me interesa saber el precio de sus servicios de desarrollo web.",Venta,Carlos López,N/A,hoy
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Luis Hernández.,Factura,Luis Hernández,N/A,el lunes pasado
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,04/01/2025
-"Buenas tardes, soy Andrés Flores. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado.",Venta,Andrés Flores,N/A,31/03/2025
-"Confirmando transferencia de $20,155.02 realizada 2025-08-12. Envíenme el XML y PDF.",Factura,N/A,"$20,155.02",2025-08-12
-Adjunto comprobante de pago por 20518.93 MXN. Favor de facturar a nombre de Gabriela Cruz.,Factura,Gabriela Cruz,20518.93 MXN,2025-05-29
-"Adjunto comprobante de pago por $46,028.60. Favor de facturar a nombre de Sofía Martínez.",Factura,Sofía Martínez,"$46,028.60",2025-08-12
-¿Me podrían dar costo de desarrollo web? Somos una PyME.,Venta,N/A,N/A,24 de April
-"Hola, quisiera cotizar 50 discos duros para Tech Solutions. Urge para 2025-05-01.",Venta,N/A,N/A,2025-05-01
-Solicito presupuesto para 49 unidades de teclados mecánicos. Quedo atento.,Venta,N/A,N/A,el lunes pasado
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Andrés Flores.,Factura,Andrés Flores,N/A,el lunes pasado
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Gabriela Cruz. hoy.,Queja,Gabriela Cruz,N/A,hoy
-"Es el colmo, llevo esperando mi reembolso de 18752.51 pesos desde el lunes pasado. Soy Luis Hernández.",Queja,Luis Hernández,18752.51 pesos,el lunes pasado
-"Hola, vi su anuncio. Quiero comprar 38 servidores. ¿Tienen en existencia?",Venta,N/A,N/A,hoy
-Pésimo servicio de auditoría fiscal. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,2026-01-01
-"Hola, quisiera cotizar 24 cámaras de seguridad para Papelería La Goma. Urge para ayer.",Venta,N/A,N/A,ayer
-Confirmando transferencia de 28119.18 MXN realizada 26 de May. Envíenme el XML y PDF.,Factura,N/A,28119.18 MXN,26 de May
-Mi pedido de paquetes de hojas llegó roto. Quiero mi dinero de vuelta. Gabriela Cruz.,Queja,Gabriela Cruz,N/A,el lunes pasado
-"Hola, no me ha llegado la factura de mi compra del el lunes pasado. El total fue 39687.27.",Factura,N/A,39687.27,el lunes pasado
-Mi pedido de discos duros llegó roto. Quiero mi dinero de vuelta. María González.,Queja,María González,N/A,20 de April
-"Hola, no me ha llegado la factura de mi compra del hoy. El total fue $42,299.21.",Factura,N/A,"$42,299.21",hoy
-Mi pedido de teclados mecánicos llegó roto. Quiero mi dinero de vuelta. Juan Pérez.,Queja,Juan Pérez,N/A,el lunes pasado
-¿Me podrían dar costo de campaña de marketing? Somos una PyME.,Venta,N/A,N/A,hoy
-Solicito presupuesto para 44 unidades de monitores 24 pulgadas. Quedo atento.,Venta,N/A,N/A,25 de August
-Confirmando transferencia de 7350.73 pesos realizada el lunes pasado. Envíenme el XML y PDF.,Factura,N/A,7350.73 pesos,el lunes pasado
-Envío datos fiscales para la factura de Tech Solutions. Monto: 4651.82.,Factura,N/A,4651.82,ayer
-Pésimo servicio de campaña de marketing. Nadie contesta los teléfonos. Exijo una solución.,Queja,N/A,N/A,2025-08-01
-"Hola, no me ha llegado la factura de mi compra del el lunes pasado. El total fue $16,274.90.",Factura,N/A,"$16,274.90",el lunes pasado
-"Hola, no me ha llegado la factura de mi compra del hoy. El total fue 41639.97 MXN.",Factura,N/A,41639.97 MXN,hoy
-"Hola, quisiera cotizar 36 monitores 24 pulgadas para Restaurante El Sabor. Urge para ayer.",Venta,N/A,N/A,ayer
-Solicito presupuesto para 16 unidades de sillas ergonómicas. Quedo atento.,Venta,N/A,N/A,2025-08-23
-¿Me podrían dar costo de campaña de marketing? Somos una PyME.,Venta,N/A,N/A,hoy
-"Hola, no me ha llegado la factura de mi compra del hoy. El total fue $48,745.40.",Factura,N/A,"$48,745.40",hoy
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Miguel Ángel. el lunes pasado.,Queja,Miguel Ángel,N/A,el lunes pasado
-Solicito presupuesto para 9 unidades de teclados mecánicos. Quedo atento.,Venta,N/A,N/A,el lunes pasado
-¿Me podrían dar costo de auditoría fiscal? Somos una PyME.,Venta,N/A,N/A,19 de January
-"Hola, quisiera cotizar 20 laptops para Consultoría Integral. Urge para 31 de August.",Venta,N/A,N/A,31 de August
-"Buenas tardes, soy Luis Hernández. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado.",Venta,Luis Hernández,N/A,ayer
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,23 de September
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,10 de February
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Lucía Fernández.,Factura,Lucía Fernández,N/A,ayer
-Adjunto comprobante de pago por $7567. Favor de facturar a nombre de María González.,Factura,María González,$7567,ayer
-"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado.",Venta,María González,N/A,06/11/2025
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,23 de July
-"Hola, quisiera cotizar 36 cámaras de seguridad para Abarrotes Don Pepe. Urge para ayer.",Venta,N/A,N/A,ayer
-"Hola, vi su anuncio. Quiero comprar 9 monitores 24 pulgadas. ¿Tienen en existencia?",Venta,N/A,N/A,el lunes pasado
-Adjunto comprobante de pago por 27337.48 pesos. Favor de facturar a nombre de Andrés Flores.,Factura,Andrés Flores,27337.48 pesos,el lunes pasado
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Andrés Flores. ayer.,Queja,Andrés Flores,N/A,ayer
-Mi pedido de discos duros llegó roto. Quiero mi dinero de vuelta. Sofía Martínez.,Queja,Sofía Martínez,N/A,ayer
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,ayer
-"Hola, no me ha llegado la factura de mi compra del 2025-09-15. El total fue 48330.1 MXN.",Factura,N/A,48330.1 MXN,2025-09-15
-"Hola, vi su anuncio. Quiero comprar 21 licencias de Office. ¿Tienen en existencia?",Venta,N/A,N/A,hoy
-Adjunto comprobante de pago por $31438. Favor de facturar a nombre de Luis Hernández.,Factura,Luis Hernández,$31438,2025-10-01
-Estoy muy molesto con su servicio. Nadie me atiende. Soy Lucía Fernández. hoy.,Queja,Lucía Fernández,N/A,hoy
-"Hola, quisiera cotizar 50 impresoras láser para Marketing Digital Pro. Urge para 2025-11-24.",Venta,N/A,N/A,2025-11-24
-Confirmando transferencia de 20601.58 MXN realizada el lunes pasado. Envíenme el XML y PDF.,Factura,N/A,20601.58 MXN,el lunes pasado
-"Buenas tardes, soy Laura García. Me interesa saber el precio de sus servicios de capacitación de personal.",Venta,Laura García,N/A,el lunes pasado
-"Envío datos fiscales para la factura de Abarrotes Don Pepe. Monto: $12,466.02.",Factura,N/A,"$12,466.02",ayer
-"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de seguridad privada.",Venta,María González,N/A,hoy
-"Oigan, me hicieron un cobro doble de 44014.25 MXN. Necesito que lo arreglen YA.",Queja,N/A,44014.25 MXN,2025-01-12
-El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.,Queja,N/A,N/A,el lunes pasado
-Confirmando transferencia de 36511.65 MXN realizada 2025-07-07. Envíenme el XML y PDF.,Factura,N/A,36511.65 MXN,2025-07-07
-Adjunto comprobante de pago por 14785.78 MXN. Favor de facturar a nombre de Lucía Fernández.,Factura,Lucía Fernández,14785.78 MXN,ayer
-"Oigan, me hicieron un cobro doble de 48766.6 MXN. Necesito que lo arreglen YA.",Queja,N/A,48766.6 MXN,11 de July
-"Hola, no me ha llegado la factura de mi compra del el lunes pasado. El total fue $2,492.62.",Factura,N/A,"$2,492.62",el lunes pasado
-Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Miguel Ángel.,Factura,Miguel Ángel,N/A,ayer
-"Oigan, me hicieron un cobro doble de 28364.75 MXN. Necesito que lo arreglen YA.",Queja,N/A,28364.75 MXN,09 de January
-¿Me podrían dar costo de capacitación de personal? Somos una PyME.,Venta,N/A,N/A,23/10/2025
-"Es el colmo, llevo esperando mi reembolso de 41172.23 desde hoy. Soy Lucía Fernández.",Queja,Lucía Fernández,41172.23,hoy
-"Buenas tardes, soy Juan Pérez. Me interesa saber el precio de sus servicios de seguridad privada.",Venta,Juan Pérez,N/A,hoy
+texto_mensaje
+"Es el colmo, llevo esperando mi reembolso de $36955 desde hoy. Soy Juan Pérez."
+"Hola, quisiera cotizar 36 discos duros para Consultoría Integral. Urge para 03/08/2025."
+Confirmando transferencia de 14254.63 realizada 2025-06-22. Envíenme el XML y PDF.
+¿Me podrían dar costo de consultoría legal? Somos una PyME.
+"Hola, vi su anuncio. Quiero comprar 46 paquetes de hojas. ¿Tienen en existencia?"
+"Hola, quisiera cotizar 11 cámaras de seguridad para Restaurante El Sabor. Urge para 10 de December."
+"Es el colmo, llevo esperando mi reembolso de 23381.88 pesos desde el lunes pasado. Soy Lucía Fernández."
+"Oigan, me hicieron un cobro doble de $20,357.66. Necesito que lo arreglen YA."
+"Hola, no me ha llegado la factura de mi compra del hoy. El total fue 13611.57."
+Confirmando transferencia de 49867.63 realizada ayer. Envíenme el XML y PDF.
+"Hola, quisiera cotizar 44 licencias de Office para Tech Solutions. Urge para ayer."
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Carlos López.
+Confirmando transferencia de $8496 realizada hoy. Envíenme el XML y PDF.
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Juan Pérez.
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de campaña de marketing."
+"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de desarrollo web."
+"Hola, vi su anuncio. Quiero comprar 27 monitores 24 pulgadas. ¿Tienen en existencia?"
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Pedro Sánchez.
+"Buenas tardes, soy Miguel Ángel. Me interesa saber el precio de sus servicios de seguridad privada."
+"Es el colmo, llevo esperando mi reembolso de 42510.44 desde ayer. Soy Juan Pérez."
+Adjunto comprobante de pago por 46362.64 MXN. Favor de facturar a nombre de Carlos López.
+Mi pedido de licencias de Office llegó roto. Quiero mi dinero de vuelta. Diego Torres.
+"Oigan, me hicieron un cobro doble de $46009. Necesito que lo arreglen YA."
+"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de campaña de marketing."
+"Es el colmo, llevo esperando mi reembolso de 10610.83 pesos desde 03 de May. Soy Lucía Fernández."
+"Oigan, me hicieron un cobro doble de $31247. Necesito que lo arreglen YA."
+"Oigan, me hicieron un cobro doble de 14606.88 MXN. Necesito que lo arreglen YA."
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Juan Pérez. 11/10/2025.
+Pésimo servicio de consultoría legal. Nadie contesta los teléfonos. Exijo una solución.
+Adjunto comprobante de pago por $37190. Favor de facturar a nombre de Juan Pérez.
+Estoy muy molesto con su servicio. Nadie me atiende. Soy María González. 09/08/2025.
+Adjunto comprobante de pago por $5588. Favor de facturar a nombre de Fernando Gómez.
+Pésimo servicio de auditoría fiscal. Nadie contesta los teléfonos. Exijo una solución.
+Solicito presupuesto para 31 unidades de servidores. Quedo atento.
+"Buenas tardes, soy Juan Pérez. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado."
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+Adjunto comprobante de pago por 39428.19 MXN. Favor de facturar a nombre de María González.
+¿Me podrían dar costo de consultoría legal? Somos una PyME.
+Pésimo servicio de mantenimiento de aire acondicionado. Nadie contesta los teléfonos. Exijo una solución.
+Envío datos fiscales para la factura de Restaurante El Sabor. Monto: 21312.09 MXN.
+"Hola, vi su anuncio. Quiero comprar 20 servidores. ¿Tienen en existencia?"
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Laura García. 2025-12-04.
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Sofía Martínez. 2025-01-13.
+Confirmando transferencia de 28995.71 MXN realizada ayer. Envíenme el XML y PDF.
+"Buenas tardes, soy Diego Torres. Me interesa saber el precio de sus servicios de seguridad privada."
+Pésimo servicio de auditoría fiscal. Nadie contesta los teléfonos. Exijo una solución.
+Confirmando transferencia de 37310.94 MXN realizada 19 de August. Envíenme el XML y PDF.
+Solicito presupuesto para 18 unidades de cámaras de seguridad. Quedo atento.
+Envío datos fiscales para la factura de Servicios Financieros SA. Monto: 11947.44.
+¿Me podrían dar costo de capacitación de personal? Somos una PyME.
+"Es el colmo, llevo esperando mi reembolso de 47165.71 pesos desde ayer. Soy Gabriela Cruz."
+Mi pedido de monitores 24 pulgadas llegó roto. Quiero mi dinero de vuelta. Andrés Flores.
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+¿Me podrían dar costo de limpieza de oficinas? Somos una PyME.
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Luis Hernández.
+"Hola, quisiera cotizar 13 laptops para Constructora del Norte. Urge para 20/03/2025."
+¿Me podrían dar costo de campaña de marketing? Somos una PyME.
+"Es el colmo, llevo esperando mi reembolso de 1771.08 pesos desde el lunes pasado. Soy Andrés Flores."
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Valentina Ramírez.
+"Hola, vi su anuncio. Quiero comprar 43 paquetes de hojas. ¿Tienen en existencia?"
+¿Me podrían dar costo de seguridad privada? Somos una PyME.
+"Hola, no me ha llegado la factura de mi compra del 18 de May. El total fue $22060."
+"Hola, quisiera cotizar 37 monitores 24 pulgadas para Papelería La Goma. Urge para 2025-06-22."
+Envío datos fiscales para la factura de Papelería La Goma. Monto: $17346.
+"Es el colmo, llevo esperando mi reembolso de $20618 desde el lunes pasado. Soy Miguel Ángel."
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+Confirmando transferencia de 35291.32 pesos realizada 06 de June. Envíenme el XML y PDF.
+"Hola, quisiera cotizar 48 paquetes de hojas para Consultoría Integral. Urge para 09/04/2025."
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Luis Hernández. 27 de April.
+"Hola, vi su anuncio. Quiero comprar 36 laptops. ¿Tienen en existencia?"
+"Hola, quisiera cotizar 29 cámaras de seguridad para Restaurante El Sabor. Urge para ayer."
+"Hola, quisiera cotizar 10 sillas ergonómicas para Papelería La Goma. Urge para 2025-06-05."
+"Hola, quisiera cotizar 50 teclados mecánicos para Transportes Rápidos. Urge para 15 de August."
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Luis Hernández. el lunes pasado.
+"Es el colmo, llevo esperando mi reembolso de 632.45 MXN desde hoy. Soy Carlos López."
+"Buenas tardes, soy Luis Hernández. Me interesa saber el precio de sus servicios de desarrollo web."
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Pedro Sánchez. 2025-03-14.
+Confirmando transferencia de 23700.55 pesos realizada ayer. Envíenme el XML y PDF.
+Confirmando transferencia de 2473.11 MXN realizada hoy. Envíenme el XML y PDF.
+Adjunto comprobante de pago por 33777.94 pesos. Favor de facturar a nombre de María González.
+¿Me podrían dar costo de auditoría fiscal? Somos una PyME.
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Sofía Martínez.
+Confirmando transferencia de 16502.05 MXN realizada 2025-09-21. Envíenme el XML y PDF.
+Mi pedido de laptops llegó roto. Quiero mi dinero de vuelta. Laura García.
+Solicito presupuesto para 45 unidades de impresoras láser. Quedo atento.
+"Buenas tardes, soy Luis Hernández. Me interesa saber el precio de sus servicios de seguridad privada."
+Pésimo servicio de consultoría legal. Nadie contesta los teléfonos. Exijo una solución.
+"Hola, no me ha llegado la factura de mi compra del hoy. El total fue 14174.25 MXN."
+Adjunto comprobante de pago por 22604.1 MXN. Favor de facturar a nombre de Luis Hernández.
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Pedro Sánchez. ayer.
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+¿Me podrían dar costo de limpieza de oficinas? Somos una PyME.
+Envío datos fiscales para la factura de Transportes Rápidos. Monto: 43037.44 MXN.
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Gabriela Cruz. el lunes pasado.
+"Hola, quisiera cotizar 3 impresoras láser para Abarrotes Don Pepe. Urge para 31 de May."
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Carlos López.
+"Hola, vi su anuncio. Quiero comprar 32 teclados mecánicos. ¿Tienen en existencia?"
+"Oigan, me hicieron un cobro doble de 34041.74. Necesito que lo arreglen YA."
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Diego Torres. 2025-09-05.
+"Oigan, me hicieron un cobro doble de $20,092.38. Necesito que lo arreglen YA."
+"Hola, vi su anuncio. Quiero comprar 39 impresoras láser. ¿Tienen en existencia?"
+"Oigan, me hicieron un cobro doble de $39,536.22. Necesito que lo arreglen YA."
+Solicito presupuesto para 9 unidades de licencias de Office. Quedo atento.
+"Hola, no me ha llegado la factura de mi compra del 14/03/2025. El total fue $23,682.40."
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+"Oigan, me hicieron un cobro doble de $12,074.18. Necesito que lo arreglen YA."
+Pésimo servicio de consultoría legal. Nadie contesta los teléfonos. Exijo una solución.
+Adjunto comprobante de pago por $22955. Favor de facturar a nombre de María González.
+Pésimo servicio de capacitación de personal. Nadie contesta los teléfonos. Exijo una solución.
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Ana Rodríguez.
+"Hola, no me ha llegado la factura de mi compra del 26 de January. El total fue $32,154.90."
+"Buenas tardes, soy Andrés Flores. Me interesa saber el precio de sus servicios de desarrollo web."
+"Hola, no me ha llegado la factura de mi compra del 09/05/2025. El total fue $49382."
+"Hola, quisiera cotizar 38 paquetes de hojas para Constructora del Norte. Urge para 2025-05-16."
+¿Me podrían dar costo de capacitación de personal? Somos una PyME.
+"Confirmando transferencia de $32,345.36 realizada ayer. Envíenme el XML y PDF."
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Diego Torres.
+"Buenas tardes, soy Luis Hernández. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado."
+Mi pedido de sillas ergonómicas llegó roto. Quiero mi dinero de vuelta. Pedro Sánchez.
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Valentina Ramírez.
+Adjunto comprobante de pago por 37357.15 pesos. Favor de facturar a nombre de María González.
+"Hola, vi su anuncio. Quiero comprar 27 paquetes de hojas. ¿Tienen en existencia?"
+"Oigan, me hicieron un cobro doble de 33008.45. Necesito que lo arreglen YA."
+Adjunto comprobante de pago por $42335. Favor de facturar a nombre de Andrés Flores.
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Juan Pérez. 23 de June.
+"Hola, vi su anuncio. Quiero comprar 48 sillas ergonómicas. ¿Tienen en existencia?"
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Pedro Sánchez. hoy.
+"Buenas tardes, soy Carlos López. Me interesa saber el precio de sus servicios de desarrollo web."
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Luis Hernández.
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+"Buenas tardes, soy Andrés Flores. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado."
+"Confirmando transferencia de $20,155.02 realizada 2025-08-12. Envíenme el XML y PDF."
+Adjunto comprobante de pago por 20518.93 MXN. Favor de facturar a nombre de Gabriela Cruz.
+"Adjunto comprobante de pago por $46,028.60. Favor de facturar a nombre de Sofía Martínez."
+¿Me podrían dar costo de desarrollo web? Somos una PyME.
+"Hola, quisiera cotizar 50 discos duros para Tech Solutions. Urge para 2025-05-01."
+Solicito presupuesto para 49 unidades de teclados mecánicos. Quedo atento.
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Andrés Flores.
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Gabriela Cruz. hoy.
+"Es el colmo, llevo esperando mi reembolso de 18752.51 pesos desde el lunes pasado. Soy Luis Hernández."
+"Hola, vi su anuncio. Quiero comprar 38 servidores. ¿Tienen en existencia?"
+Pésimo servicio de auditoría fiscal. Nadie contesta los teléfonos. Exijo una solución.
+"Hola, quisiera cotizar 24 cámaras de seguridad para Papelería La Goma. Urge para ayer."
+Confirmando transferencia de 28119.18 MXN realizada 26 de May. Envíenme el XML y PDF.
+Mi pedido de paquetes de hojas llegó roto. Quiero mi dinero de vuelta. Gabriela Cruz.
+"Hola, no me ha llegado la factura de mi compra del el lunes pasado. El total fue 39687.27."
+Mi pedido de discos duros llegó roto. Quiero mi dinero de vuelta. María González.
+"Hola, no me ha llegado la factura de mi compra del hoy. El total fue $42,299.21."
+Mi pedido de teclados mecánicos llegó roto. Quiero mi dinero de vuelta. Juan Pérez.
+¿Me podrían dar costo de campaña de marketing? Somos una PyME.
+Solicito presupuesto para 44 unidades de monitores 24 pulgadas. Quedo atento.
+Confirmando transferencia de 7350.73 pesos realizada el lunes pasado. Envíenme el XML y PDF.
+Envío datos fiscales para la factura de Tech Solutions. Monto: 4651.82.
+Pésimo servicio de campaña de marketing. Nadie contesta los teléfonos. Exijo una solución.
+"Hola, no me ha llegado la factura de mi compra del el lunes pasado. El total fue $16,274.90."
+"Hola, no me ha llegado la factura de mi compra del hoy. El total fue 41639.97 MXN."
+"Hola, quisiera cotizar 36 monitores 24 pulgadas para Restaurante El Sabor. Urge para ayer."
+Solicito presupuesto para 16 unidades de sillas ergonómicas. Quedo atento.
+¿Me podrían dar costo de campaña de marketing? Somos una PyME.
+"Hola, no me ha llegado la factura de mi compra del hoy. El total fue $48,745.40."
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Miguel Ángel. el lunes pasado.
+Solicito presupuesto para 9 unidades de teclados mecánicos. Quedo atento.
+¿Me podrían dar costo de auditoría fiscal? Somos una PyME.
+"Hola, quisiera cotizar 20 laptops para Consultoría Integral. Urge para 31 de August."
+"Buenas tardes, soy Luis Hernández. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado."
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Lucía Fernández.
+Adjunto comprobante de pago por $7567. Favor de facturar a nombre de María González.
+"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de mantenimiento de aire acondicionado."
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+"Hola, quisiera cotizar 36 cámaras de seguridad para Abarrotes Don Pepe. Urge para ayer."
+"Hola, vi su anuncio. Quiero comprar 9 monitores 24 pulgadas. ¿Tienen en existencia?"
+Adjunto comprobante de pago por 27337.48 pesos. Favor de facturar a nombre de Andrés Flores.
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Andrés Flores. ayer.
+Mi pedido de discos duros llegó roto. Quiero mi dinero de vuelta. Sofía Martínez.
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+"Hola, no me ha llegado la factura de mi compra del 2025-09-15. El total fue 48330.1 MXN."
+"Hola, vi su anuncio. Quiero comprar 21 licencias de Office. ¿Tienen en existencia?"
+Adjunto comprobante de pago por $31438. Favor de facturar a nombre de Luis Hernández.
+Estoy muy molesto con su servicio. Nadie me atiende. Soy Lucía Fernández. hoy.
+"Hola, quisiera cotizar 50 impresoras láser para Marketing Digital Pro. Urge para 2025-11-24."
+Confirmando transferencia de 20601.58 MXN realizada el lunes pasado. Envíenme el XML y PDF.
+"Buenas tardes, soy Laura García. Me interesa saber el precio de sus servicios de capacitación de personal."
+"Envío datos fiscales para la factura de Abarrotes Don Pepe. Monto: $12,466.02."
+"Buenas tardes, soy María González. Me interesa saber el precio de sus servicios de seguridad privada."
+"Oigan, me hicieron un cobro doble de 44014.25 MXN. Necesito que lo arreglen YA."
+El sistema no me deja descargar mi factura. Siempre marca error. Ayuda.
+Confirmando transferencia de 36511.65 MXN realizada 2025-07-07. Envíenme el XML y PDF.
+Adjunto comprobante de pago por 14785.78 MXN. Favor de facturar a nombre de Lucía Fernández.
+"Oigan, me hicieron un cobro doble de 48766.6 MXN. Necesito que lo arreglen YA."
+"Hola, no me ha llegado la factura de mi compra del el lunes pasado. El total fue $2,492.62."
+Necesito re-facturar el ticket #4590. El RFC estaba mal. Soy Miguel Ángel.
+"Oigan, me hicieron un cobro doble de 28364.75 MXN. Necesito que lo arreglen YA."
+¿Me podrían dar costo de capacitación de personal? Somos una PyME.
+"Es el colmo, llevo esperando mi reembolso de 41172.23 desde hoy. Soy Lucía Fernández."
+"Buenas tardes, soy Juan Pérez. Me interesa saber el precio de sus servicios de seguridad privada."
