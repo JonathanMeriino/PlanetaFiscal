@@ -6,7 +6,7 @@ from google import genai
 from google.genai import types
 from docx import Document
 
-# --- 1. CONFIGURACIÓN DEL ENTORNO Y API ---
+# CONFIGURACION DEL ENTORNO Y API
 
 # Cargar variables de entorno desde .env
 load_dotenv()
@@ -19,7 +19,7 @@ if not api_key:
 client = genai.Client(api_key=api_key)
 
 # Definir la estructura estricta de salida (JSON Schema)
-# Esto garantiza que la IA no alucine formatos.
+
 schema_fiscal = {
     "type": "OBJECT",
     "properties": {
@@ -34,17 +34,17 @@ schema_fiscal = {
     "required": ["nombre_cliente", "monto", "fecha", "tipo_solicitud"]
 }
 
-# --- 2. CONFIGURACIÓN DE RUTAS (ROBUSTEZ UBUNTU) ---
+# CONFIGURACIÓN DE RUTAS
 
-# Obtiene la ruta absoluta de donde está ESTE script.
-# Vital para que funcione con Cron o desde cualquier terminal en Linux.
+# Obtiene la ruta absoluta de donde está este script.
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "dummy")
 
 print(f"📂 Directorio de trabajo: {BASE_DIR}")
 print(f"📂 Buscando archivos en: {DATA_DIR}\n")
 
-# --- 3. FUNCIONES DE LECTURA (ETL) ---
+# FUNCIONES DE LECTURA
 
 def leer_txt(filepath):
     """Lee un archivo de texto plano línea por línea."""
@@ -77,7 +77,7 @@ def leer_csv(filepath, columna):
         print(f"⚠️ Error leyendo CSV: {e}")
         return []
 
-# --- 4. FUNCIÓN DE EXTRACCIÓN CON IA ---
+# FUNCIÓN DE EXTRACCIÓN CON IA
 
 def analizar_texto(texto):
     prompt = f"""
@@ -103,7 +103,7 @@ def analizar_texto(texto):
         print(f"❌ Error en la API con el texto: '{texto[:20]}...' -> {e}")
         return None
 
-# --- 5. ORQUESTADOR PRINCIPAL ---
+
 
 def main():
     todos_los_mensajes = []
@@ -112,11 +112,11 @@ def main():
     print("--- INICIANDO LECTURA DE ARCHIVOS ---")
     
     # 1. TXT
-    ruta_txt = os.path.join(DATA_DIR, "dummytxt.txt")
-    if os.path.exists(ruta_txt):
-        datos = leer_txt(ruta_txt)
-        todos_los_mensajes.extend(datos)
-        print(f"✅ TXT cargado ({len(datos)} registros)")
+    #ruta_txt = os.path.join(DATA_DIR, "dummytxt.txt")
+    #if os.path.exists(ruta_txt):
+    #    datos = leer_txt(ruta_txt)
+    #    todos_los_mensajes.extend(datos)
+    #    print(f"✅ TXT cargado ({len(datos)} registros)")
     
     # 2. DOCX
     ruta_docx = os.path.join(DATA_DIR, "dummyword.docx")
@@ -140,7 +140,7 @@ def main():
         print("❌ No hay datos para procesar. Revisa la carpeta 'datos_entrada'.")
         return
 
-    # --- B. PROCESAMIENTO CON IA ---
+    # PROCESAMIENTO CON IA 
     print("\n--- INICIANDO ANÁLISIS CON GEMINI ---")
     resultados = []
     
@@ -155,7 +155,7 @@ def main():
             info_extraida["mensaje_original"] = mensaje
             resultados.append(info_extraida)
 
-    # --- C. GUARDADO DE RESULTADOS ---
+    # GUARDADO DE RESULTADOS
     print("\n--- GUARDANDO REPORTE ---")
     
     if resultados:
@@ -180,10 +180,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-"""
-response = client.models.generate_content(
-    model="gemini-3-flash-preview",
-    contents="Explain how AI works in a few words",
-)
-
-print(response.text)"""
